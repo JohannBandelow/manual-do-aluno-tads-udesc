@@ -5,3 +5,7 @@ Caso não encontre uma informação aqui, pedimos que abra uma issue detalhando 
 ### [Grade Curricular TADS](https://github.com/JohannBandelow/manual-do-aluno-tads-udesc/blob/main/grade-curricular.md)
 
 ### [Quantidade de faltas Máximas](https://github.com/JohannBandelow/manual-do-aluno-tads-udesc/blob/main/quantidade-faltas.md)
+
+### [Notas e Exames](https://github.com/JohannBandelow/manual-do-aluno-tads-udesc/blob/main/notas-e-exame.md)
+
+
