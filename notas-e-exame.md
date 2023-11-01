@@ -3,7 +3,8 @@ Caso não seja atingido a média é necessário fazer o exame, caso não seja fe
 Quando faz o exame a nota de aprovação caí pra 5, e pode se calcular a nota usando a seguinte fórmula:
 $$NF = { (MS \cdot 6) + (NE \cdot 4) \over 10}$$
 
-##### Também tem a tabelinha:
+#### Também tem a tabelinha:
+~~Pra quem for preguiçoso~~
 
 | Média Semestral | Nota Mínima para Aprovação | Média Final |
 |------------------|-----------------------------|------------|
