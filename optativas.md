@@ -1,5 +1,5 @@
 ### Matérias optativas:
-É obrigatório fazer no mínimo 5 matérias optativas, ~~o díficil é conseguir encaixar os horários~~
+É obrigatório fazer no mínimo **5** matérias optativas, ~~o díficil é conseguir encaixar os horários~~
 
 
 | Código | Disciplina                             | Carga Horária | Créditos Concedidos  | Pré-requisitos    |
